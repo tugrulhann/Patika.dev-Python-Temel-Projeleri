@@ -1,2 +1,2 @@
-# Patika.dev-Python-Temel-Projeleri
+# Patika.dev Python Temel Projeleri
 Python Temel proje çözümleri
